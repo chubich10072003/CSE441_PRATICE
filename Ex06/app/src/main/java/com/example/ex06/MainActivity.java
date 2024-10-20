@@ -109,6 +109,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         b.create().show();
+        b.create().show();
+
 
         // Gọi super.onBackPressed() để đảm bảo hành vi mặc định vẫn được thực hiện
         super.onBackPressed();
